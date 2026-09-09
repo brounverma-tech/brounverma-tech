@@ -6,6 +6,8 @@ Recruiter 💼 | BCA Student 🎓 | Cybersecurity Learner 🔐
 
 <p align="center">
 Building my journey from Recruitment to Technology & Cybersecurity
+</p>
+
 <p align="center">
   <a href="https://brounverma-tech.github.io/brounstack-website/">
     🌐 Visit My Portfolio
@@ -28,7 +30,6 @@ My recruitment background has helped me develop strong **communication, coordina
 
 My goal is to continuously learn, build practical projects, and grow toward a career in **Cybersecurity and Information Security**.
 
-
 ### 🎯 Current Focus
 
 - 💻 C Programming
@@ -38,6 +39,84 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 - 🔐 Cybersecurity Fundamentals
 - 🛠️ Programming & Cybersecurity Projects
 - 📚 BCA Studies
+
+---
+
+## 🗂️ Repository Directory
+
+All repositories are grouped below in a folder-style view so it is easy to understand what each repository belongs to.
+
+### 📁 BOOKS
+
+```text
+BOOKS/
+├── web-technology-book
+├── problem-solving-with-programming-book
+├── mathematics-book
+└── functional-english-1-book
+```
+
+- 📘 [Web Technology Book](https://github.com/brounverma-tech/web-technology-book)
+- 📗 [Problem Solving with Programming Book](https://github.com/brounverma-tech/problem-solving-with-programming-book)
+- 📙 [Mathematics Book](https://github.com/brounverma-tech/mathematics-book)
+- 📕 [Functional English 1 Book](https://github.com/brounverma-tech/functional-english-1-book)
+
+### 📁 CRM & BUSINESS APPS
+
+```text
+CRM/
+└── CRM repository will be added here when created
+```
+
+### 📁 CYBERSECURITY & PYTHON TOOLS
+
+```text
+CYBERSECURITY-TOOLS/
+├── password-strength-checker
+├── secure-password-generator
+├── file-integrity-checker
+├── network-port-scanner
+├── log-file-analyzer
+└── linux-security-audit-tool
+```
+
+- 🔐 [Password Strength Checker](https://github.com/brounverma-tech/password-strength-checker)
+- 🔑 [Secure Password Generator](https://github.com/brounverma-tech/secure-password-generator)
+- 🛡️ [File Integrity Checker](https://github.com/brounverma-tech/file-integrity-checker)
+- 🌐 [Network Port Scanner](https://github.com/brounverma-tech/network-port-scanner)
+- 🔍 [Log File Analyzer](https://github.com/brounverma-tech/log-file-analyzer)
+- 🐧 [Linux Security Audit Tool](https://github.com/brounverma-tech/linux-security-audit-tool)
+
+### 📁 C PROGRAMMING PROJECTS
+
+```text
+C-PROJECTS/
+├── c-student-grade-calculator
+└── c-number-guessing-game
+```
+
+- 🎓 [C Student Grade Calculator](https://github.com/brounverma-tech/c-student-grade-calculator)
+- 🎯 [C Number Guessing Game](https://github.com/brounverma-tech/c-number-guessing-game)
+
+### 📁 WEB & PORTFOLIO
+
+```text
+WEB-PORTFOLIO/
+├── brounverma-tech
+└── brounstack-website
+```
+
+- 👤 [GitHub Profile Repository](https://github.com/brounverma-tech/brounverma-tech)
+- 🌐 [BrounStack Website](https://github.com/brounverma-tech/brounstack-website)
+
+### 📁 OTHER PROJECTS
+
+```text
+OTHER-PROJECTS/
+└── modern-calculator
+```
+
+- 🧮 [Modern Calculator](https://github.com/brounverma-tech/modern-calculator)
 
 ---
 
@@ -51,7 +130,7 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 - Python Programming
 - C Programming
 - Programming Fundamentals
-  
+
 ### 🔐 Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-red)
@@ -90,8 +169,7 @@ My goal is to continuously learn, build practical projects, and grow toward a ca
 
 ---
 
-## 🚀 Projects
-
+## 🚀 Featured Projects
 
 ### 🔐 Password Strength Checker
 
@@ -171,7 +249,7 @@ I'm currently learning and building projects related to:
 - Computer Networking
 - Cybersecurity
 - BCA Programming Projects
-  
+
 ---
 
 ## 📫 Connect With Me
