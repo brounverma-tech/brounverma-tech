@@ -10,7 +10,7 @@ Building my journey from Recruitment to Technology & Cybersecurity
 
 <p align="center">
   <a href="https://brounverma-tech.github.io/brounstack-website/">
-    🌐 Visit My Portfolio
+    🌐 Visit My Website
   </a>
 </p>
 
