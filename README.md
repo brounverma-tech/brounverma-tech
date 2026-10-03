@@ -5,17 +5,17 @@ Recruiter 💼 | BCA Student 🎓 | Cybersecurity Learner 🔐
 </h3>
 
 <p align="center">
-Building my journey from Recruitment to Technology & Cybersecurity
+  Building my journey from Recruitment to Technology & Cybersecurity
 </p>
 
 <p align="center">
-  <a href="https://brounverma-tech.github.io/https://brounstack.in//">
+  <a href="https://brounstack.in/">
     🌐 Visit My Website
   </a>
 </p>
 
 <p align="center">
-💻 C • 🐍 Python • 🐧 Linux • 🌐 Networking • 🔐 Cybersecurity
+  💻 C • 🐍 Python • 🐧 Linux • 🌐 Networking • 🔐 Cybersecurity
 </p>
 
 ---
