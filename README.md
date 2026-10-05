@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Broun Verma — advanced GitHub profile dashboard" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-dashboard-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-dashboard-light.svg">
+  <img src="./profile-dashboard-dark.svg" alt="Broun Verma — advanced GitHub profile dashboard" width="100%">
 </picture>
 
 <div align="center">
