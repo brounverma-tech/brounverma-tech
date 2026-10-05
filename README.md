@@ -1,42 +1,33 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Broun Verma — Recruitment Professional, BCA Student and Cybersecurity Learner" width="100%">
+  <img src="./dark.svg" alt="Broun Verma — advanced GitHub profile dashboard" width="100%">
 </picture>
 
 <div align="center">
 
 ### Recruitment Professional · BCA Student · Cybersecurity Learner
 
-Building practical skills through programming, Linux, networking, cybersecurity and real-world web projects.
+**Learning · Building · Improving · Securing**
 
-[![Website](https://img.shields.io/badge/BrounStack-Visit-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brounstack.in/)
+[![BrounStack](https://img.shields.io/badge/BrounStack-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brounstack.in/)
+[![Indelvia](https://img.shields.io/badge/Indelvia-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.indelvia.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/broun-v-a399332a9)
-[![GitHub](https://img.shields.io/badge/GitHub-brounverma--tech-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brounverma-tech)
+[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brounverma@gmail.com)
 
 </div>
 
 ---
 
-## `ABOUT.ME`
+## `PROFILE.SUMMARY`
 
-I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** while building a strong technical foundation in **Cybersecurity and Information Security**.
+I'm a recruitment professional currently pursuing a **Bachelor of Computer Applications (BCA)** while building practical skills in **Cybersecurity, Linux, Networking, Programming and Web Development**.
 
-I learn by building practical projects across **C, Python, Linux, networking, cybersecurity and modern web development**. My recruitment background also gives me experience in communication, coordination, people-management and professional networking.
+My current technical work includes **C, Python, JavaScript, TypeScript, React, Next.js, Git, GitHub and Linux**. My long-term direction is toward **Cybersecurity and Information Security**.
 
-```text
-CURRENT.FOCUS
-├── C & Python
-├── Linux Fundamentals
-├── Computer Networking
-├── Cybersecurity Fundamentals
-├── React & Next.js
-├── TypeScript
-├── Git & GitHub
-└── BCA Studies
-```
+---
 
-## `ENGINEERING.STACK`
+## `TECH.STACK`
 
 <div align="center">
 
@@ -44,65 +35,24 @@ CURRENT.FOCUS
 
 </div>
 
-| Area | Current tools / topics |
-|---|---|
-| **Programming** | C, Python, programming fundamentals, problem solving |
-| **Web** | HTML, CSS, JavaScript, TypeScript, React, Next.js |
-| **Security** | Password security, file integrity, hashing, port scanning, log analysis |
-| **Networking** | TCP/IP, ports, sockets, network scanning |
-| **Systems** | Linux, command line, Git, GitHub, VS Code |
+---
 
-## `SELECTED.PROJECTS`
+## `FEATURED.PROJECTS`
 
-| Project | What it is | Link |
+| Project | Focus | Links |
 |---|---|---|
+| **KSA Learning Hub** | Learning-focused website project | [Repository](https://github.com/brounverma-tech/ksa-learning-hub) |
 | **BrounStack** | Programming, technology and learning platform | [Live](https://brounstack.in/) · [Repository](https://github.com/brounverma-tech/brounstack-website) |
-| **Indelvia** | Professional business website built with modern web technologies | [Live](https://www.indelvia.com/) · [Repository](https://github.com/brounverma-tech/indelvia-website) |
-| **Password Strength Checker** | Python project for evaluating password strength | [Repository](https://github.com/brounverma-tech/password-strength-checker) |
-| **Secure Password Generator** | Python password generator using secure randomness | [Repository](https://github.com/brounverma-tech/secure-password-generator) |
-| **File Integrity Checker** | SHA-256 based file change detection tool | [Repository](https://github.com/brounverma-tech/file-integrity-checker) |
-| **Network Port Scanner** | Python TCP port scanning project | [Repository](https://github.com/brounverma-tech/network-port-scanner) |
-| **Security Log Analyzer** | Log analysis project for failed-login activity | [Repository](https://github.com/brounverma-tech/log-file-analyzer) |
-| **Linux Security Audit Tool** | Basic Linux security auditing project | [Repository](https://github.com/brounverma-tech/linux-security-audit-tool) |
+| **Indelvia** | Professional business website | [Live](https://www.indelvia.com/) · [Repository](https://github.com/brounverma-tech/indelvia-website) |
+| **School Management System** | School management web project | [Repository](https://github.com/brounverma-tech/school-management-system) |
+| **Password Strength Checker** | Password security learning tool | [Repository](https://github.com/brounverma-tech/password-strength-checker) |
+| **Network Port Scanner** | TCP port scanning project | [Repository](https://github.com/brounverma-tech/network-port-scanner) |
 
-## `LEARNING.REPOS`
-
-### Books
-
-- [Web Technology Book](https://github.com/brounverma-tech/web-technology-book)
-- [Problem Solving with Programming Book](https://github.com/brounverma-tech/problem-solving-with-programming-book)
-- [Mathematics Book](https://github.com/brounverma-tech/mathematics-book)
-- [Functional English 1 Book](https://github.com/brounverma-tech/functional-english-1-book)
-
-### C Projects
-
-- [Student Grade Calculator](https://github.com/brounverma-tech/c-student-grade-calculator)
-- [Number Guessing Game](https://github.com/brounverma-tech/c-number-guessing-game)
+---
 
 ## `ALL.REPOSITORIES`
 
-### Public Repositories
-
-| Repository | Type |
-|---|---|
-| [brounverma-tech](https://github.com/brounverma-tech/brounverma-tech) | GitHub Profile |
-| [web-technology-book](https://github.com/brounverma-tech/web-technology-book) | Book / Learning |
-| [problem-solving-with-programming-book](https://github.com/brounverma-tech/problem-solving-with-programming-book) | Book / Learning |
-| [mathematics-book](https://github.com/brounverma-tech/mathematics-book) | Book / Learning |
-| [functional-english-1-book](https://github.com/brounverma-tech/functional-english-1-book) | Book / Learning |
-| [password-strength-checker](https://github.com/brounverma-tech/password-strength-checker) | Cybersecurity / Python |
-| [secure-password-generator](https://github.com/brounverma-tech/secure-password-generator) | Cybersecurity / Python |
-| [file-integrity-checker](https://github.com/brounverma-tech/file-integrity-checker) | Cybersecurity / Python |
-| [network-port-scanner](https://github.com/brounverma-tech/network-port-scanner) | Networking / Python |
-| [log-file-analyzer](https://github.com/brounverma-tech/log-file-analyzer) | Cybersecurity / Python |
-| [linux-security-audit-tool](https://github.com/brounverma-tech/linux-security-audit-tool) | Linux / Cybersecurity |
-| [c-student-grade-calculator](https://github.com/brounverma-tech/c-student-grade-calculator) | C Programming |
-| [c-number-guessing-game](https://github.com/brounverma-tech/c-number-guessing-game) | C Programming |
-| [modern-calculator](https://github.com/brounverma-tech/modern-calculator) | Programming Project |
-
-### Private Repositories
-
-> These repositories are private, so GitHub will only open them for accounts that have access.
+### Web & Application Projects
 
 | Repository | Visibility |
 |---|---|
@@ -112,13 +62,46 @@ CURRENT.FOCUS
 | [ksa-learning-hub](https://github.com/brounverma-tech/ksa-learning-hub) | Private |
 | [school-management-system](https://github.com/brounverma-tech/school-management-system) | Private |
 | [website-learning-redesign](https://github.com/brounverma-tech/website-learning-redesign) | Private |
+| [modern-calculator](https://github.com/brounverma-tech/modern-calculator) | Public |
+| [brounverma-tech](https://github.com/brounverma-tech/brounverma-tech) | Public |
 
-## `ROADMAP`
+### Cybersecurity & Python Projects
+
+| Repository | Visibility |
+|---|---|
+| [password-strength-checker](https://github.com/brounverma-tech/password-strength-checker) | Public |
+| [secure-password-generator](https://github.com/brounverma-tech/secure-password-generator) | Public |
+| [file-integrity-checker](https://github.com/brounverma-tech/file-integrity-checker) | Public |
+| [network-port-scanner](https://github.com/brounverma-tech/network-port-scanner) | Public |
+| [log-file-analyzer](https://github.com/brounverma-tech/log-file-analyzer) | Public |
+| [linux-security-audit-tool](https://github.com/brounverma-tech/linux-security-audit-tool) | Public |
+
+### C Programming
+
+| Repository | Visibility |
+|---|---|
+| [c-student-grade-calculator](https://github.com/brounverma-tech/c-student-grade-calculator) | Public |
+| [c-number-guessing-game](https://github.com/brounverma-tech/c-number-guessing-game) | Public |
+
+### Books & Learning Repositories
+
+| Repository | Visibility |
+|---|---|
+| [web-technology-book](https://github.com/brounverma-tech/web-technology-book) | Public |
+| [problem-solving-with-programming-book](https://github.com/brounverma-tech/problem-solving-with-programming-book) | Public |
+| [mathematics-book](https://github.com/brounverma-tech/mathematics-book) | Public |
+| [functional-english-1-book](https://github.com/brounverma-tech/functional-english-1-book) | Public |
+
+> Private repositories are listed for portfolio context. They are only accessible to accounts that have permission.
+
+---
+
+## `LEARNING.ROADMAP`
 
 ```text
 FOUNDATION
    │
-   ├── C
+   ├── C Programming
    ├── Python
    ├── Linux
    └── Networking
@@ -141,6 +124,8 @@ ADVANCED LEARNING
    └── Information Security
 ```
 
+---
+
 ## `GITHUB.ACTIVITY`
 
 <div align="center">
@@ -153,17 +138,16 @@ ADVANCED LEARNING
 
 </div>
 
-## `COLLABORATION`
+---
 
-I'm interested in learning-focused and beginner-friendly collaboration around **Python, C, web development, Linux, networking, cybersecurity, automation and open-source learning projects**.
-
-## `CONNECT`
+## `CONNECT.WITH.ME`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brounverma@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-brounverma--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brounverma-tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/broun-v-a399332a9)
-[![Website](https://img.shields.io/badge/BrounStack-Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brounstack.in/)
+[![Website](https://img.shields.io/badge/BrounStack-Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brounstack.in/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brounverma@gmail.com)
 
 **Learning · Building · Improving · Securing**
 
