@@ -79,6 +79,40 @@ CURRENT.FOCUS
 - [Student Grade Calculator](https://github.com/brounverma-tech/c-student-grade-calculator)
 - [Number Guessing Game](https://github.com/brounverma-tech/c-number-guessing-game)
 
+## `ALL.REPOSITORIES`
+
+### Public Repositories
+
+| Repository | Type |
+|---|---|
+| [brounverma-tech](https://github.com/brounverma-tech/brounverma-tech) | GitHub Profile |
+| [web-technology-book](https://github.com/brounverma-tech/web-technology-book) | Book / Learning |
+| [problem-solving-with-programming-book](https://github.com/brounverma-tech/problem-solving-with-programming-book) | Book / Learning |
+| [mathematics-book](https://github.com/brounverma-tech/mathematics-book) | Book / Learning |
+| [functional-english-1-book](https://github.com/brounverma-tech/functional-english-1-book) | Book / Learning |
+| [password-strength-checker](https://github.com/brounverma-tech/password-strength-checker) | Cybersecurity / Python |
+| [secure-password-generator](https://github.com/brounverma-tech/secure-password-generator) | Cybersecurity / Python |
+| [file-integrity-checker](https://github.com/brounverma-tech/file-integrity-checker) | Cybersecurity / Python |
+| [network-port-scanner](https://github.com/brounverma-tech/network-port-scanner) | Networking / Python |
+| [log-file-analyzer](https://github.com/brounverma-tech/log-file-analyzer) | Cybersecurity / Python |
+| [linux-security-audit-tool](https://github.com/brounverma-tech/linux-security-audit-tool) | Linux / Cybersecurity |
+| [c-student-grade-calculator](https://github.com/brounverma-tech/c-student-grade-calculator) | C Programming |
+| [c-number-guessing-game](https://github.com/brounverma-tech/c-number-guessing-game) | C Programming |
+| [modern-calculator](https://github.com/brounverma-tech/modern-calculator) | Programming Project |
+
+### Private Repositories
+
+> These repositories are private, so GitHub will only open them for accounts that have access.
+
+| Repository | Visibility |
+|---|---|
+| [brounstack-website](https://github.com/brounverma-tech/brounstack-website) | Private |
+| [indelvia-website](https://github.com/brounverma-tech/indelvia-website) | Private |
+| [indelvia-website_new](https://github.com/brounverma-tech/indelvia-website_new) | Private |
+| [ksa-learning-hub](https://github.com/brounverma-tech/ksa-learning-hub) | Private |
+| [school-management-system](https://github.com/brounverma-tech/school-management-system) | Private |
+| [website-learning-redesign](https://github.com/brounverma-tech/website-learning-redesign) | Private |
+
 ## `ROADMAP`
 
 ```text
