@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="850" viewBox="0 0 720 850" role="img" aria-labelledby="title desc">
+<title id="title">Two worlds. One mindset. Code meets interface design.</title>
+<desc id="desc">Illustrative animated code editor and website preview. Design demo, not a live build or security scan.</desc>
+<defs><linearGradient id="mint"><stop stop-color="#e5e8d7"/><stop offset="1" stop-color="#c9e6b4"/></linearGradient><clipPath id="frame"><rect width="100%" height="100%" rx="14"/></clipPath></defs>
+<style>*{animation:none!important}text{font-family:Consolas,"Liberation Mono",monospace}.active{animation:active 12s infinite}.line2{animation-delay:2s}.line3{animation-delay:4s}.line4{animation-delay:6s}.orbit{transform-box:fill-box;transform-origin:center;animation:float 6s ease-in-out infinite}.cursor{animation:blink 1.5s steps(2,end) infinite}@keyframes active{0%,16%{opacity:1}17%,100%{opacity:0}}@keyframes float{50%{transform:translateY(-12px) rotate(12deg)}}@keyframes blink{50%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}.active{opacity:0}}</style>
+<g clip-path="url(#frame)"><rect width="100%" height="100%" fill="#0d1217"/><rect width="100%" height="68" fill="#172026"/>
+<text x="30" y="43" fill="#b6c4c3" font-size="26">profile.tsx / DESIGN DEMO</text>
+<path d="M0 68H720" stroke="#33413d"/>
+<rect class="active line1" x="18" y="113" width="684" height="36" rx="3" fill="#a2ff7817" opacity="0"/>
+<text x="30" y="140" fill="#788b87" font-size="24">01</text>
+<text x="80" y="140" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#dab4ff">const </tspan>
+<tspan fill="#f2f2ed">developer = {</tspan>
+</text>
+<rect class="active line2" x="18" y="151" width="684" height="36" rx="3" fill="#a2ff7817" opacity="0"/>
+<text x="30" y="178" fill="#788b87" font-size="24">02</text>
+<text x="80" y="178" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#f2f2ed">  name: </tspan>
+<tspan fill="#a2ff78">&#x27;Broun Verma&#x27;,</tspan>
+</text>
+<rect class="active line3" x="18" y="189" width="684" height="36" rx="3" fill="#a2ff7817" opacity="0"/>
+<text x="30" y="216" fill="#788b87" font-size="24">03</text>
+<text x="80" y="216" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#f2f2ed">  focus: </tspan>
+<tspan fill="#a2ff78">[&#x27;web&#x27;, &#x27;security&#x27;],</tspan>
+</text>
+<rect class="active line4" x="18" y="227" width="684" height="36" rx="3" fill="#a2ff7817" opacity="0"/>
+<text x="30" y="254" fill="#788b87" font-size="24">04</text>
+<text x="80" y="254" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#f2f2ed">  mindset: </tspan>
+<tspan fill="#a2ff78">&#x27;keep building&#x27;</tspan>
+</text>
+<text x="30" y="292" fill="#788b87" font-size="24">05</text>
+<text x="80" y="292" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#f2f2ed">};</tspan>
+</text>
+<text x="30" y="330" fill="#788b87" font-size="24">06</text>
+<text x="80" y="330" fill="#edf0e8" font-size="24" xml:space="preserve">
+<tspan fill="#9cbdff">export default </tspan>
+<tspan fill="#f2f2ed">Curiosity;</tspan>
+</text>
+<rect x="30" y="385" width="660" height="365" rx="8" fill="#e9ecd9"/>
+<rect x="30" y="385" width="660" height="39" rx="8" fill="#d9e0cc"/>
+<text x="49" y="412" fill="#3b4d35" font-size="18">BV. / web experiment</text>
+<rect x="30" y="424" width="660" height="326" fill="url(#mint)"/>
+<text x="59" y="498" fill="#1c2c1a" font-size="43" style="font-family:Arial,sans-serif;font-weight:700">Ideas become</text>
+<text x="59" y="549" fill="#1c2c1a" font-size="43" style="font-family:Arial,sans-serif;font-weight:700">interfaces.</text>
+<text x="59" y="593" fill="#4b6041" font-size="20">A little curiosity. A lot of iteration.</text>
+<rect x="59" y="622" width="193" height="37" rx="4" fill="#263e23"/>
+<text x="73" y="647" fill="#edf2df" font-size="18">Built to explore</text>
+<rect class="orbit" x="570" y="660" width="48" height="48" rx="9" fill="none" stroke="#547a43" stroke-width="2"/>
+<path d="M0 786H720" stroke="#33413d"/>
+<circle cx="35" cy="819" r="5" fill="#a2ff78"/>
+<text x="52" y="827" fill="#b4ccb9" font-size="20">BUILD. LEARN. ITERATE.</text>
+<rect class="cursor" x="672" y="806" width="12" height="24" fill="#a2ff78"/>
+</g></svg>

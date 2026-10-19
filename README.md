@@ -1,224 +1,96 @@
-<img src="./dashboard-hero-v5.svg" alt="Broun Verma profile dashboard" width="100%">
-
-<h3 align="center">Recruitment Professional · BCA Student · Cybersecurity Learner</h3>
-
-<p align="center">
-  Building practical skills through programming, Linux, networking, cybersecurity and modern web development.
-</p>
-
-<p align="center">
-  <a href="https://github.com/brounverma-tech"><img src="https://img.shields.io/badge/GitHub-brounverma--tech-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/broun-v-a399332a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://brounstack.in/"><img src="https://img.shields.io/badge/BrounStack-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.indelvia.com/"><img src="https://img.shields.io/badge/Indelvia-Visit-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-</p>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 About Me
-
-I'm currently pursuing a **Bachelor of Computer Applications (BCA)** while building hands-on skills in:
-
-- Cybersecurity
-- Linux & Networking
-- C & Python
-- React & Next.js
-- Git & GitHub
-- Web Development
-
-My long-term direction is toward **Cybersecurity and Information Security**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Current Focus
-
-```text
-LEARNING.NOW
-├── C Programming
-├── Python
-├── Linux
-├── Networking
-├── Cybersecurity
-├── React / Next.js
-├── TypeScript
-└── Git / GitHub
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🧠 Tech Stack</h2>
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/code-security/hero-mobile-still.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-security/hero-still.png">
+  <source media="(max-width: 600px)" srcset="./assets/code-security/hero-mobile.gif">
+  <img src="./assets/code-security/hero.gif" alt="Broun Verma — Code × Security. Build the interface. Understand what protects it. BCA student, web builder, and cybersecurity learner." width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,js,ts,react,nextjs,linux,git,github,vscode" alt="Tech Stack">
+  <a href="https://brounstack.in/"><b>Explore BrounStack ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://www.indelvia.com/"><b>Indelvia ↗</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/broun-v-a399332a9"><b>Let's connect ↗</b></a>
 </p>
 
----
+# Two worlds. One mindset.
 
-<h2 align="center">🚀 Featured Projects</h2>
+I'm **Broun Verma** — a recruitment professional pursuing a **Bachelor of Computer Applications**, building for the web and exploring how systems work and how to protect them.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My work connects two interests: **thoughtful web experiences** and **practical security tools**. I learn by building, investigating, and improving one project at a time.
 
-### 🎓 KSA Learning Hub
+<picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/code-security/code-interface-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/code-security/code-interface-still.svg">
+  <source media="(max-width: 600px)" srcset="./assets/code-security/code-interface-mobile.svg">
+  <img src="./assets/code-security/code-interface.svg" alt="Code meets interface design: an illustrative code editor beside a website preview. Build, learn, iterate. This is a design animation, not a live build or security scan." width="100%">
+</picture>
 
-Learning-focused website project built around a modern web experience.
+## 01 / Security, through building.
 
-**Stack:** React · Next.js
+### [Security Log File Analyzer ↗](https://github.com/brounverma-tech/log-file-analyzer)
 
-[Open Repository →](https://github.com/brounverma-tech/ksa-learning-hub)
+Explore authentication logs, count activity by IP address, and flag repeated failed login attempts.
 
-</td>
-<td width="50%" valign="top">
+`Python` · `Log analysis` · `Security monitoring`
 
-### 🌐 BrounStack
+### [File Integrity Checker ↗](https://github.com/brounverma-tech/file-integrity-checker)
 
-Programming, technology and learning platform.
+Detect file modifications by comparing SHA-256 hashes against a saved baseline.
 
-**Stack:** React · Next.js · Web Development
+`Python` · `SHA-256` · `JSON`
 
-[Live Website →](https://brounstack.in/)  
-[Repository →](https://github.com/brounverma-tech/brounstack-website)
+### [Network Port Scanner ↗](https://github.com/brounverma-tech/network-port-scanner)
 
-</td>
-</tr>
+Understand TCP connections by discovering open ports on localhost in a learning environment.
 
-<tr>
-<td width="50%" valign="top">
+`Python` · `Sockets` · `TCP/IP`
 
-### 🏢 Indelvia
+**More from the lab:** [Password Strength Checker](https://github.com/brounverma-tech/password-strength-checker) · [Secure Password Generator](https://github.com/brounverma-tech/secure-password-generator) · [Linux Security Audit Tool](https://github.com/brounverma-tech/linux-security-audit-tool)
 
-Professional business website with a modern interface.
+## 02 / The web side.
 
-**Stack:** React · Next.js · TypeScript
+### [BrounStack ↗](https://brounstack.in/)
 
-[Live Website →](https://www.indelvia.com/)  
-[Repository →](https://github.com/brounverma-tech/indelvia-website)
+My programming, technology, and learning platform — a place to build and share what I learn.
 
-</td>
-<td width="50%" valign="top">
+### [Indelvia ↗](https://www.indelvia.com/)
 
-### 🏫 School Management System
+A professional business website built around a modern web experience.
 
-School management web project.
+### [Modern Calculator ↗](https://github.com/brounverma-tech/modern-calculator)
 
-**Focus:** Web Application
+A responsive calculator built with HTML, CSS, and JavaScript. **[Try the live demo ↗](https://brounverma-tech.github.io/modern-calculator/)**
 
-[Open Repository →](https://github.com/brounverma-tech/school-management-system)
+## 03 / The everyday toolkit.
 
-</td>
-</tr>
+**Web** &nbsp; HTML · CSS · JavaScript · TypeScript · React · Next.js  
+**Programming** &nbsp; Python · C  
+**Systems & tools** &nbsp; Linux · Git · GitHub · VS Code
 
-<tr>
-<td width="50%" valign="top">
+### Currently exploring
 
-### 🔐 Password Strength Checker
-
-Python-based security learning project for evaluating password strength.
-
-**Stack:** Python · Security
-
-[Open Repository →](https://github.com/brounverma-tech/password-strength-checker)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Network Port Scanner
-
-TCP port scanning project built while learning networking and cybersecurity.
-
-**Stack:** Python · Networking
-
-[Open Repository →](https://github.com/brounverma-tech/network-port-scanner)
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">📦 Repository Directory</h2>
-
-<details open>
-<summary><b>🌍 Web & Application Projects</b></summary>
-
-<br>
-
-- [brounstack-website](https://github.com/brounverma-tech/brounstack-website) — Private
-- [indelvia-website](https://github.com/brounverma-tech/indelvia-website) — Private
-- [indelvia-website_new](https://github.com/brounverma-tech/indelvia-website_new) — Private
-- [ksa-learning-hub](https://github.com/brounverma-tech/ksa-learning-hub) — Private
-- [school-management-system](https://github.com/brounverma-tech/school-management-system) — Private
-- [website-learning-redesign](https://github.com/brounverma-tech/website-learning-redesign) — Private
-- [modern-calculator](https://github.com/brounverma-tech/modern-calculator) — Public
-- [brounverma-tech](https://github.com/brounverma-tech/brounverma-tech) — Public
-
-</details>
+- Linux fundamentals, networking, and cybersecurity.
+- React, Next.js, TypeScript, and better web experiences.
+- Python automation, log analysis, and security tooling.
 
 <details>
-<summary><b>🔐 Cybersecurity & Python</b></summary>
+<summary><b>Explore more of my learning journey</b></summary>
 
-<br>
+#### C programming
 
-- [password-strength-checker](https://github.com/brounverma-tech/password-strength-checker)
-- [secure-password-generator](https://github.com/brounverma-tech/secure-password-generator)
-- [file-integrity-checker](https://github.com/brounverma-tech/file-integrity-checker)
-- [network-port-scanner](https://github.com/brounverma-tech/network-port-scanner)
-- [log-file-analyzer](https://github.com/brounverma-tech/log-file-analyzer)
-- [linux-security-audit-tool](https://github.com/brounverma-tech/linux-security-audit-tool)
+[Student Grade Calculator](https://github.com/brounverma-tech/c-student-grade-calculator) · [Number Guessing Game](https://github.com/brounverma-tech/c-number-guessing-game)
 
-</details>
+#### Books & learning resources
 
-<details>
-<summary><b>💻 C Programming</b></summary>
+[Web Technology](https://github.com/brounverma-tech/web-technology-book) · [Problem Solving with Programming](https://github.com/brounverma-tech/problem-solving-with-programming-book) · [Mathematics](https://github.com/brounverma-tech/mathematics-book) · [Functional English](https://github.com/brounverma-tech/functional-english-1-book)
 
-<br>
+#### Beyond the code
 
-- [c-student-grade-calculator](https://github.com/brounverma-tech/c-student-grade-calculator)
-- [c-number-guessing-game](https://github.com/brounverma-tech/c-number-guessing-game)
-
-</details>
-
-<details>
-<summary><b>📚 Books & Learning</b></summary>
-
-<br>
-
-- [web-technology-book](https://github.com/brounverma-tech/web-technology-book)
-- [problem-solving-with-programming-book](https://github.com/brounverma-tech/problem-solving-with-programming-book)
-- [mathematics-book](https://github.com/brounverma-tech/mathematics-book)
-- [functional-english-1-book](https://github.com/brounverma-tech/functional-english-1-book)
+Recruitment taught me communication, coordination, and working with people. My BCA journey is helping me combine those strengths with a growing technical foundation.
 
 </details>
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+**Built on curiosity.** Learning → Building → Improving.
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brounverma-tech&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brounverma-tech&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
-</p>
-
----
-
-<h2 align="center">🤝 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://github.com/brounverma-tech"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/broun-v-a399332a9"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:brounverma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <b>Learning · Building · Improving · Securing</b>
-</p>
+[All public repositories ↗](https://github.com/brounverma-tech?tab=repositories) &nbsp; / &nbsp; [Connect on LinkedIn ↗](https://www.linkedin.com/in/broun-v-a399332a9)
